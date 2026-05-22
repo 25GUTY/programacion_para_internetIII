@@ -1,0 +1,2 @@
+En ajedrez, el enroque es un movimiento especial donde el rey se mueve 2 casillas hacia una torre, y esa torre salta al otro lado del rey.
+Hay dos tipos: enroque corto (hacia el flanco de rey) y enroque largo (hacia el flanco de dama).
