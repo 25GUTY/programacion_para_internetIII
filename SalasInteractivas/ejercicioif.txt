@@ -1,0 +1,21 @@
+Reto: "El Sistema de Aprobación de Créditos Coorporativos"
+
+Una empresa financiera evalúa solicitudes de crédito para emprendedores. 
+Crea un archivo llamado credito.php con las siguientes variables:
+
+$montoSolicitado (Asigna un valor alto, por ejemplo: 850000).
+
+$ingresosMensuales (Asigna un valor, por ejemplo: 45000).
+
+La regla del negocio (IF/ELSE):
+
+Si los $ingresosMensuales * 10 son mayores o iguales al $montoSolicitado, el crédito es APROBADO.
+
+De lo contrario, el crédito es RECHAZADO.
+
+Requisitos de visualización:
+
+Debes mostrar el monto solicitado y los ingresos mensuales formateados con separación de miles y dos decimales.
+
+Debes mostrar un mensaje en pantalla indicando si el cliente fue Aprobado o Rechazado 
+(puedes usar colores: verde para aprobado, rojo para rechazado).
