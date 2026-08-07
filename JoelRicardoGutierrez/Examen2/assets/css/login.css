@@ -1,0 +1,59 @@
+body {
+
+    background: #e9ecef;
+
+}
+
+.card {
+
+    margin-top: 70px;
+
+    border: none;
+
+    border-radius: 12px;
+
+}
+
+.card-header {
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    padding: 20px;
+
+}
+
+.card-footer {
+
+    background: white;
+
+    border-top: none;
+
+    padding: 20px;
+
+    color: #6c757d;
+
+}
+
+.btn-login {
+
+    padding: 12px;
+
+    font-size: 18px;
+
+}
+
+.input-group-text {
+
+    width: 45px;
+
+    justify-content: center;
+
+}
+
+.form-control {
+
+    height: 45px;
+
+}
